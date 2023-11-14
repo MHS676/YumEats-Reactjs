@@ -2,6 +2,7 @@
 import Delivery from "./components/Delivery";
 import Featured from "./components/Featured";
 import TopNav from "./components/TopNav";
+import TopPicks from "./components/TopPicks";
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <TopNav />
       <Featured/>
       <Delivery/>
+      <TopPicks/>
       
     </div>
   );
