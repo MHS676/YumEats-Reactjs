@@ -9,15 +9,11 @@ const Delivery = () => {
         <div className='flex flex-col justify-center'>
           <p className='text-[#00df9a] font-bold'>Get The App</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Limitless Convenience on-demand</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            molestiae delectus culpa hic assumenda, voluptate reprehenderit
-            dolore autem cum ullam sed odit perspiciatis...
-          </p>
-          <p>
-            ...Doloribus quos velit, eveniet ex deserunt fuga? Lorem ipsum dolor
-            sit amet consectetur adipisicing elit...
-          </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero itaque alias, 
+          necessitatibus vero eum corporis blanditiis vel praesentium illum facilis minima 
+          amet, ducimus consequuntur quasi tempore ex obcaecati iste saepe quis adipisci 
+          consectetur quae veritatis, atque quo. Ullam, delectus dignissimos molestias 
+          nostrum repudiandae iure. Iure alias quidem exercitationem velit sapiente?</p>
           <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
         </div>
       </div>
